@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# BugSlayer Team - W8S
+
+    Giovanni Souza -- Front-End -- fb.com/gpknh
+    
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
